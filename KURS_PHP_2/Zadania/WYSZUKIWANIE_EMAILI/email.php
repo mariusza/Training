@@ -1,0 +1,13 @@
+<?php
+	include_once("funkcja.php");
+?>
+<html>
+<head>
+	<title>EMAILE</title>
+</head>
+<body>
+<?php
+	zdobadz_email("emaile.txt");
+?>
+</body>
+</html>
